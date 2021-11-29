@@ -4,3 +4,5 @@ let age = 27;
 const age = () => {
   console.log("Hello")
 }
+
+let myles = "Hello";
